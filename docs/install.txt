@@ -1,0 +1,17 @@
+Installation:
+
+Just doubleclick setup.exe and specify the directory where to install FAST.
+
+FAST requires some VisualBasicRuntime files to work. The following files will be 
+installed in your $WINDOWS\system32 directory:
+
+stdole2.tlb
+msvbvm60.dll
+oleaut32.dll
+olepro32.dll
+asycfilt.dll
+comcat.dll
+TABCTL32.OCX
+MSFLXGRD.OCX
+MSCOMCTL.OCX
+MSWINSCK.OCX
