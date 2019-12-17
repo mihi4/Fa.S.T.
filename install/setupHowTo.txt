@@ -1,0 +1,5 @@
+*) run installPackage.iss
+
+*) create fast.zip with
+	setup.exe
+	install.txt
